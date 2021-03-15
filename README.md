@@ -1,5 +1,7 @@
 # Web Prompt Secret
 
+![What it looks like](what-it-looks-like.png)
+
 ## What is this
 
 This script starts a web server that hosts a web `<form>` which essentially includes nothing but a `<textarea>` and a `<submit>` (but also some text, which is slightly configurable).
